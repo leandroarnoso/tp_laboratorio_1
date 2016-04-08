@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1459456685 source:c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1459456569 source:c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1459451005 c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_1_cascara\funciones.h
+
+1459470595 source:c:\users\alumno.lab5pc03\desktop\trabajos practicos\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1459465620 source:c:\users\alumno.lab5pc03\desktop\trabajos practicos\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1459462592 c:\users\alumno.lab5pc03\desktop\trabajos practicos\tp_1_cascara\funciones.h
+
+1460056639 source:c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"interfaz.h"
+	"validaciones.h"
+	"funciones.h"
+
+1460051866 c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\funciones.h
+
+1460052233 c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\constantes.h
+
+1460056420 source:c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\interfaz.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"validaciones.h"
+
+1460056865 c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\interfaz.h
+
+1460056420 source:c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\funciones.c
+
+1460051866 c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\validaciones.h
+
+1460056420 source:c:\users\leandro\desktop\trabajos practicos\tp_1_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"constantes.h"
+
+1460056422 source:c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\funciones.c
+
+1460070500 source:c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"constantes.h"
+
+1460070446 c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\constantes.h
+
+1460066822 source:c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\interfaz.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"validaciones.h"
+
+1460051868 c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\validaciones.h
+
+1460070446 source:c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"interfaz.h"
+	"validaciones.h"
+	"funciones.h"
+
+1460056866 c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\interfaz.h
+
+1460051868 c:\users\arnej\desktop\trabajos practicos\tp_1_cascara\funciones.h
+
+1460056422 source:c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\funciones.c
+
+1460070642 source:c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\interfaz.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"validaciones.h"
+
+1460082066 c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\constantes.h
+
+1460051868 c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\validaciones.h
+
+1460070448 source:c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"interfaz.h"
+	"validaciones.h"
+	"funciones.h"
+
+1460056866 c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\interfaz.h
+
+1460051868 c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\funciones.h
+
+1460070502 source:c:\users\leandro\documents\github\tp_laboratorio_1\trabajo practico nº 1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"constantes.h"
+
