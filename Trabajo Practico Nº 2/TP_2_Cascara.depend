@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1461823655 source:c:\users\leandro\desktop\tp_2_cascara\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1461862855 source:c:\users\leandro\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+	"inputs.h"
+	"funciones.h"
+
+1461862931 c:\users\leandro\desktop\tp_2_cascara\funciones.h
+
+1461862774 source:c:\users\leandro\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"struct.h"
+
+1461862931 c:\users\leandro\desktop\tp_2_cascara\inputs.h
+
+1461481664 source:c:\users\arnej\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1461481224 c:\users\arnej\desktop\tp_2_cascara\funciones.h
+
+1461301866 source:c:\users\arnej\desktop\tp_2_cascara\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1461481224 source:c:\users\arnej\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"inputs.h"
+
+1461301782 c:\users\arnej\desktop\tp_2_cascara\inputs.h
+
+1461627078 source:c:\users\alumno\desktop\tp_2_cascara\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1461633490 source:c:\users\alumno\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"inputs.h"
+
+1461633774 c:\users\alumno\desktop\tp_2_cascara\funciones.h
+
+1461560516 c:\users\alumno\desktop\tp_2_cascara\inputs.h
+
+1461628531 source:c:\users\alumno\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1461862774 c:\users\leandro\desktop\tp_2_cascara\struct.h
+
