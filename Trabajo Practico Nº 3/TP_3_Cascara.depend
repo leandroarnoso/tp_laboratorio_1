@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1463990274 source:c:\users\leandro\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"funciones.h"
+
+1463989496 c:\users\leandro\desktop\tp_3_cascara\funciones.h
+
+1463990375 source:c:\users\leandro\desktop\tp_3_cascara\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
+1463990425 source:c:\users\leandro\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"funciones.h"
+
+1463989496 c:\users\leandro\desktop\tp_3_cascara\inputs.h
+
+1464374473 source:c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"funciones.h"
+
+1464366206 c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_3_cascara\inputs.h
+
+1464373885 c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_3_cascara\funciones.h
+
+1464366401 source:c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_3_cascara\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
+1464374988 source:c:\users\leandro\desktop\prog. i - lab. i\trabajos practicos\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"funciones.h"
+
